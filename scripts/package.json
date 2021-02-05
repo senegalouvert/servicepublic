@@ -1,0 +1,25 @@
+{
+  "name": "servicepublic",
+  "version": "1.0.0",
+  "description": "Clone servicepublic.gouv.sn data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senegalouvert/servicepublic.git"
+  },
+  "keywords": [
+    "clone",
+    "publicservice",
+    "senegal",
+    "code4senegal"
+  ],
+  "author": "Mamadou Diagne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/senegalouvert/servicepublic/issues"
+  },
+  "homepage": "https://github.com/senegalouvert/servicepublic#readme"
+}
