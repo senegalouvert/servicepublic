@@ -2,7 +2,10 @@
 
 Clone [servicepublic.gouv.sn](http://www.servicepublic.gouv.sn) data
 
-## Vos démarches administratives
+## [Vos démarches administratives](data/README.md)
+
+* [Particuliers](data/particuliers/README.md)
+* [professionnels](data/professionnels/README.md)
 
 ## Comment contribuer à servicepublic
 
