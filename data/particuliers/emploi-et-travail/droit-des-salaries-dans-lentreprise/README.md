@@ -1,0 +1,15 @@
+# Droit des salariés dans l'entreprise
+
+* [Demander un numéro d’immatriculation pour allocations familiales à la Direction des Statistiques du Travail.](demander-un-numero-dimmatriculation-pour-allocations-familiales-a-la-direction-des-statistiques-du-travail.md)
+* [Constituer un dossier d’accident du travail  à la Caisse de sécurité sociale](constituer-un-dossier-daccident-du-travail-a-la-caisse-de-securite-sociale.md)
+* [Demander à constituer un dossier de prestations familiales à la Caisse de sécurité sociale](demander-a-constituer-un-dossier-de-prestations-familiales-a-la-caisse-de-securite-sociale.md)
+* [Demander le changement du mode de règlement de son salaire](demander-le-changement-du-mode-de-reglement-de-son-salaire.md)
+* [Demander le règlement d’un différend de travail pour un agent non fonctionnaire](demander-le-reglement-dun-differend-de-travail-pour-un-agent-non-fonctionnaire.md)
+* [Demander l’immatriculation d’un employeur à la Caisse de sécurité sociale](demander-limmatriculation-dun-employeur-a-la-caisse-de-securite-sociale.md)
+* [Demander la vérification de l’affiliation à l’Institution de prévoyance retraite du Sénégal (IPRES)](demander-la-verification-de-laffiliation-a-linstitution-de-prevoyance-retraite-du-senegal-ipres.md)
+* [Demander une carte d’affiliation à l’Institution de prévoyance retraite du Sénégal (IPRES)](demander-une-carte-daffiliation-a-linstitution-de-prevoyance-retraite-du-senegal-ipres.md)
+* [Déclarer un accident du travail ou une maladie professionnelle](declarer-un-accident-du-travail-ou-une-maladie-professionnelle.md)
+* [Demander une attestation de chômage](demander-une-attestation-de-chomage.md)
+* [Demander l’approbation des statuts et du règlement intérieur d’une institution de prévoyance maladie (IPM)](demander-lapprobation-des-statuts-et-du-reglement-interieur-dune-institution-de-prevoyance-maladie-ipm.md)
+* [Demander un recours hiérarchique pour infirmer  l'autorisation ou le refus de licenciement d’un délégué du personnel](demander-un-recours-hierarchique-pour-infirmer-lautorisation-ou-le-refus-de-licenciement-dun-delegue-du-personnel.md)
+* [Demander la reconnaissance d'un syndicat](demander-la-reconnaissance-dun-syndicat.md)

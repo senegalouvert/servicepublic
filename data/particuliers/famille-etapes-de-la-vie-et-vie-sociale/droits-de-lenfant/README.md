@@ -1,0 +1,17 @@
+# Droits de l'enfant
+
+* [Demander l’inscription et l’intégration d’un enfant dans un centre polyvalent](demander-linscription-et-lintegration-dun-enfant-dans-un-centre-polyvalent.md)
+* [Demander l’inscription  et/ou l’intégration d’un enfant dans un centre de sauvegarde](demander-linscription-etou-lintegration-dun-enfant-dans-un-centre-de-sauvegarde.md)
+* [Demander à faire bénéficier à un enfant d’un service de l’action éducative en milieu ouvert (AEMO)](demander-a-faire-beneficier-a-un-enfant-dun-service-de-laction-educative-en-milieu-ouvert-aemo.md)
+* [Demander à inscrire un enfant dans une case des tout petits](demander-a-inscrire-un-enfant-dans-une-case-des-tout-petits.md)
+* [Parrainer un enfant dans les cases des tout - petits.](parrainer-un-enfant-dans-les-cases-des-tout-petits.md)
+* [Demander une copie littérale d’acte de naissance](demander-une-copie-litterale-dacte-de-naissance.md)
+* [Demander le placement d'un enfant mineur dans les centres spécialisés](demander-le-placement-dun-enfant-mineur-dans-les-centres-specialises.md)
+* [Demander la tutelle d'un enfant](demander-la-tutelle-dun-enfant.md)
+* [Demander l'adoption limitée d'un enfant](demander-ladoption-limitee-dun-enfant.md)
+* [Demander l'adoption plénière d'un enfant](demander-ladoption-pleniere-dun-enfant.md)
+* [Enregistrer une reconnaissance d’enfant](enregistrer-une-reconnaissance-denfant.md)
+* [Demander un jugement d'autorisation d'inscription de naissance](demander-un-jugement-dautorisation-dinscription-de-naissance.md)
+* [Déclarer une naissance](declarer-une-naissance.md)
+* [Demander un bulletin de naissance](demander-un-bulletin-de-naissance.md)
+* [Demander un certificat de non inscription de naissance](demander-un-certificat-de-non-inscription-de-naissance.md)

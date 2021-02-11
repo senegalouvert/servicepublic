@@ -2,6 +2,7 @@
 const yargs = require('yargs/yargs')
 const { hideBin } = require('yargs/helpers')
 const getCsv = require('./csv')
+const readMe = require('./csv')
 
 const argv = yargs(hideBin(process.argv))
   .command('backup [categorie] [csv] [sauter] [max]', 'sauvegarde des liens html en fichier md', (yargs) =>
@@ -25,6 +26,21 @@ const argv = yargs(hideBin(process.argv))
   {
     if (argv.verbose) console.info(`sauvegarde des liens html de "${argv.csv}" sauter ligne(s):${argv.sauter}`)
     if ((argv.categorie === 'particuliers' || argv.categorie === 'professionnels') && argv.csv) getCsv(argv)
+    else console.info('Erreur de syntaxe, commande incorrecte')
+  })
+  .command('readme [categorie] [csv]', 'Création fichier README.md', (yargs) =>
+  {
+    yargs
+      .positional('categorie', {
+        describe: 'backup dans cette categorie'
+      })
+      .positional('csv', {
+        describe: 'chemin du fichier csv'
+      })
+  }, (argv) =>
+  {
+    if (argv.verbose) console.info(`sauvegarde des liens html de "${argv.csv}" sauter ligne(s):${argv.sauter}`)
+    if ((argv.categorie === 'particuliers' || argv.categorie === 'professionnels')) readMe(argv)
     else console.info('Erreur de syntaxe, commande incorrecte')
   })
   .option('verbose', {

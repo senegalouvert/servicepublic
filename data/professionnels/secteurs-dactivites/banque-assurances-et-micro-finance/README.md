@@ -1,0 +1,15 @@
+# Banque, assurances et micro finance
+
+* [Saisir le Fonds de garantie automobile (FGA) en cas d’accident corporel de la circulation routière](saisir-le-fonds-de-garantie-automobile-fga-en-cas-daccident-corporel-de-la-circulation-routiere.md)
+* [Obtenir des informations sur la qualité des services offerts par les institutions financières au Sénégal](obtenir-des-informations-sur-la-qualite-des-services-offerts-par-les-institutions-financieres-au-senegal.md)
+* [Bénéficier du refinancement et du fonds de garantie au Fonds de Promotion Economique](beneficier-du-refinancement-et-du-fonds-de-garantie-au-fonds-de-promotion-economique.md)
+* [Bénéficier d’un financement participatif du Fonds de Promotion Economique (FPE)](beneficier-dun-financement-participatif-du-fonds-de-promotion-economique-fpe.md)
+* [Demander l’attribution d’un logement HLM  financé par la Banque de l'Habitat du Sénégal (BHS)](demander-lattribution-dun-logement-hlm-finance-par-la-banque-de-lhabitat-du-senegal-bhs.md)
+* [Comment devenir agent général d’assurance](comment-devenir-agent-general-dassurance.md)
+* [Demander la création d’un cabinet de courtage en assurance](demander-la-creation-dun-cabinet-de-courtage-en-assurance.md)
+* [Accéder à un micro-crédit du Fonds de Développement et de Solidarité Municipal  (FODEM)](acceder-a-un-micro-credit-du-fonds-de-developpement-et-de-solidarite-municipal-fodem.md)
+* [Comment obtenir l'aide d'un médiateur financier](comment-obtenir-laide-dun-mediateur-financier.md)
+* [Demander un prêt au Fonds d'impulsion de la micro-finance (FIMF)](demander-un-pret-au-fonds-dimpulsion-de-la-micro-finance-fimf.md)
+* [Demander un financement du Fonds national de promotion de l'entreprenariat féminin](demander-un-financement-du-fonds-national-de-promotion-de-lentreprenariat-feminin.md)
+* [Souscrire aux bons du trésor](souscrire-aux-bons-du-tresor.md)
+* [Constituer une caution de marché public](constituer-une-caution-de-marche-public.md)

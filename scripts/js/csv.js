@@ -1,6 +1,7 @@
 const fs = require('fs')
 const fastcsv = require('fast-csv')
 const scraping = require('./scraping')
+const readme = require('./readme')
 
 const getCsv = (argv) =>
 {
@@ -32,6 +33,27 @@ const getCsv = (argv) =>
     })
 }
 
+const readMe = (argv) =>
+{
+  const { categorie, csv } = argv
+  const lignes = []
+  const stream = readFile(csv)
+
+  stream && fastcsv.parseStream(stream, {
+    headers: true
+  })
+    .on('error', () => console.error('Erreur: problème d\'analyse fichier'))
+    .on('data', async(data) =>
+    {
+      lignes.push(data)
+    })
+    .on('end', () =>
+    {
+      console.log('---- Création README ----')
+      readme(categorie, lignes)
+    })
+}
+
 const readFile = (fichier) =>
 {
   // Check that the file exists locally
@@ -46,3 +68,4 @@ const readFile = (fichier) =>
 }
 
 module.exports = getCsv
+module.exports = readMe

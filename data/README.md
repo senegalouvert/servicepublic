@@ -1,13 +1,20 @@
 ## Vos démarches administratives
 
-* [Particuliers](data/particuliers/README.md)
-  * Argent
-  * Citoyenneté, justice et sécurité
-  * Culture et communication
-  * Education et formation
-  * Emploi et travail
-  * Famille, étapes de la vie et vie sociale
-  * Habitat et logement
-  * Papiers
-  * Vie associative
-* [professionnels](data/professionnels/README.md)
+* [Particuliers](./particuliers/README.md)
+  * [Argent](./particuliers/argent/README.md)
+  * [Citoyenneté, justice et sécurité](./particuliers/citoyennete-justice-et-securite/README.md)
+  * [Culture et communication](./particuliers/culture-et-communication/README.md)
+  * [Education et formation](./particuliers/education-et-formation/README.md)
+  * [Emploi et travail](./particuliers/emploi-et-travail/README.md)
+  * [Famille, étapes de la vie et vie sociale](./particuliers/famille-etapes-de-la-vie-et-vie-sociale/README.md)
+  * [Habitat et logement](./particuliers/habitat-et-logement/README.md)
+  * [Papiers](./particuliers/papiers/README.md)
+  * [Vie associative](./particuliers/vie-associative/README.md)
+
+* [Professionnels](./professionnels/README.md)
+  * [Activités de l'entreprise](./professionnels/activites-de-lentreprise/README.md)
+  * [Questions juridiques, administratives et fiscales](./professionnels/questions-juridiques-administratives-et-fiscales/README.md)
+  * [Ressources humaines](./professionnels/ressources-humaines/README.md)
+  * [Secteurs d'activités](./professionnels/secteurs-dactivites/README.md)
+  * [Vie associative](./professionnels/vie-associative/README.md)
+  * [Vie de l'entreprise](./professionnels/vie-de-lentreprise/README.md)

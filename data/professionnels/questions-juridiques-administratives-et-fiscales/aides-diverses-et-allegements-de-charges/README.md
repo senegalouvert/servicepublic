@@ -1,0 +1,18 @@
+# Aides diverses et allègements de charges
+
+* [Bénéficier du refinancement et du fonds de garantie au Fonds de Promotion Economique](beneficier-du-refinancement-et-du-fonds-de-garantie-au-fonds-de-promotion-economique.md)
+* [Bénéficier d’un financement participatif du Fonds de Promotion Economique (FPE)](beneficier-dun-financement-participatif-du-fonds-de-promotion-economique-fpe.md)
+* [Demander à bénéficier du Fonds de garantie des projets artisanaux](demander-a-beneficier-du-fonds-de-garantie-des-projets-artisanaux.md)
+* [Demander à l’Agence d’aménagement et de promotion des sites industriels (APROSI) d’effectuer un audit financier de son entreprise.](demander-a-lagence-damenagement-et-de-promotion-des-sites-industriels-aprosi-deffectuer-un-audit-financier-de-son-entreprise.md)
+* [Demander à l’Agence d’aménagement et de promotion des sites industriels (APROSI) d’effectuer une analyse diagnostique de son entreprise](demander-a-lagence-damenagement-et-de-promotion-des-sites-industriels-aprosi-deffectuer-une-analyse-diagnostique-de-son-entreprise.md)
+* [Demander à l’Agence d’aménagement et de promotion des sites industriels (APROSI) l’aide à la recherche d’un partenaire technique, financier ou commercial.](demander-a-lagence-damenagement-et-de-promotion-des-sites-industriels-aprosi-laide-a-la-recherche-dun-partenaire-technique-financier-ou-commercial.md)
+* [Demander à l’Agence d’aménagement et de promotion des sites industriels (APROSI) une étude de marché pour son entreprise](demander-a-lagence-damenagement-et-de-promotion-des-sites-industriels-aprosi-une-etude-de-marche-pour-son-entreprise.md)
+* [Demander une étude de redressement ou de restructuration d’une entreprise à l’Agence d’aménagement et de promotion des sites industriels (APROSI)](demander-une-etude-de-redressement-ou-de-restructuration-dune-entreprise-a-lagence-damenagement-et-de-promotion-des-sites-industriels-aprosi.md)
+* [Demander à bénéficier d’un montage et d’un suivi de projet par l’ANEJ](demander-a-beneficier-dun-montage-et-dun-suivi-de-projet-par-lanej.md)
+* [Demander une remise gracieuse d’impôt](demander-une-remise-gracieuse-dimpot.md)
+* [Demander une immatriculation au Centre des grandes entreprises (CGE)](demander-une-immatriculation-au-centre-des-grandes-entreprises-cge.md)
+* [Demander un prêt au Fonds d'impulsion de la micro-finance (FIMF)](demander-un-pret-au-fonds-dimpulsion-de-la-micro-finance-fimf.md)
+* [Demander une prise en charge des taxes et droits de douane](demander-une-prise-en-charge-des-taxes-et-droits-de-douane.md)
+* [Demander un dégrèvement d'impôts](demander-un-degrevement-dimpots.md)
+* [Demander un agrément au code des investissements (CI)](demander-un-agrement-au-code-des-investissements-ci.md)
+* [Demander l'agrément au statut d’entreprise franche d’exportation (EFE)](demander-lagrement-au-statut-dentreprise-franche-dexportation-efe.md)

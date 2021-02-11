@@ -1,0 +1,15 @@
+# Enseignement préscolaire et primaire
+
+* [S'inscrire au cours d’initiation (CI)](sinscrire-au-cours-dinitiation-ci.md)
+* [Devenir volontaire de l'éducation](devenir-volontaire-de-leducation.md)
+* [Demander un transfert d'élève](demander-un-transfert-deleve.md)
+* [Demander un certificat de scolarité](demander-un-certificat-de-scolarite.md)
+* [Demander une allocation municipale d’étude pour le cycle élémentaire](demander-une-allocation-municipale-detude-pour-le-cycle-elementaire.md)
+* [Demander à bénéficier d’une case des tout-petits](demander-a-beneficier-dune-case-des-tout-petits.md)
+* [Demander à inscrire un enfant dans une case des tout petits](demander-a-inscrire-un-enfant-dans-une-case-des-tout-petits.md)
+* [Parrainer un enfant dans les cases des tout - petits.](parrainer-un-enfant-dans-les-cases-des-tout-petits.md)
+* [Demander à devenir un animateur polyvalent  dans les cases des tout - petits](demander-a-devenir-un-animateur-polyvalent-dans-les-cases-des-tout-petits.md)
+* [Demander à devenir une mère assistante dans les cases des tout - petits](demander-a-devenir-une-mere-assistante-dans-les-cases-des-tout-petits.md)
+* [Demander une dispense d'âge pour l'inscription en classe de cours d'initiation (CI)](demander-une-dispense-dage-pour-linscription-en-classe-de-cours-dinitiation-ci.md)
+* [S'inscrire au concours d'entrée du Prytanée militaire de Saint-Louis (PMS)](sinscrire-au-concours-dentree-du-prytanee-militaire-de-saint-louis-pms.md)
+* [S'inscrire à l'examen du certificat de fin d'études élémentaires (CFEE)](sinscrire-a-lexamen-du-certificat-de-fin-detudes-elementaires-cfee.md)

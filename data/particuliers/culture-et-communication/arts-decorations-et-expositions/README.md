@@ -1,0 +1,15 @@
+# Arts, décorations et expositions
+
+* [Bénéficier du soutien de la Ville de Dakar à l’initiative culturelle](beneficier-du-soutien-de-la-ville-de-dakar-a-linitiative-culturelle.md)
+* [Demander à participer aux manifestations des Convergences nationales des arts](demander-a-participer-aux-manifestations-des-convergences-nationales-des-arts.md)
+* [Demander la mise à disposition d’un atelier résidence au village des arts](demander-la-mise-a-disposition-dun-atelier-residence-au-village-des-arts.md)
+* [S’inscrire au concours d’entrée de l’école nationale des arts section professionnelle (pour les instituteurs)](sinscrire-au-concours-dentree-de-lecole-nationale-des-arts-section-professionnelle-pour-les-instituteurs.md)
+* [S’inscrire au concours d’entrée de l’école nationale des arts pour les étrangers](sinscrire-au-concours-dentree-de-lecole-nationale-des-arts-pour-les-etrangers.md)
+* [S’inscrire comme auditeur libre à l’Ecole nationale des arts (E.N.A)](sinscrire-comme-auditeur-libre-a-lecole-nationale-des-arts-ena.md)
+* [Demander à participer à la Biennale de l’Art africain contemporain Dak’Art](demander-a-participer-a-la-biennale-de-lart-africain-contemporain-dakart.md)
+* [Demander la mise à disposition de matériel de « Son et Lumière »](demander-la-mise-a-disposition-de-materiel-de-son-et-lumiere.md)
+* [Demander un stage au Service spectacle son et lumière](demander-un-stage-au-service-spectacle-son-et-lumiere.md)
+* [Demander une mise à disposition d’espaces d’exposition d’œuvres d’art à la Galerie nationale d’Art](demander-une-mise-a-disposition-despaces-dexposition-doeuvres-dart-a-la-galerie-nationale-dart.md)
+* [Demander à organiser une manifestation dans un centre culturel régional (CCR)](demander-a-organiser-une-manifestation-dans-un-centre-culturel-regional-ccr.md)
+* [Demander à bénéficier d’un financement du Fonds d’aide aux artistes et au développement de la culture](demander-a-beneficier-dun-financement-du-fonds-daide-aux-artistes-et-au-developpement-de-la-culture.md)
+* [Demander à participer au Festival national des arts et de la culture (FESNAC)](demander-a-participer-au-festival-national-des-arts-et-de-la-culture-fesnac.md)

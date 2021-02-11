@@ -1,0 +1,16 @@
+# PME et PMI
+
+* [Bénéficier du refinancement et du fonds de garantie au Fonds de Promotion Economique](beneficier-du-refinancement-et-du-fonds-de-garantie-au-fonds-de-promotion-economique.md)
+* [Bénéficier d’un financement participatif du Fonds de Promotion Economique (FPE)](beneficier-dun-financement-participatif-du-fonds-de-promotion-economique-fpe.md)
+* [Demander un encadrement pour la création et la formalisation d’une entreprise artisanale](demander-un-encadrement-pour-la-creation-et-la-formalisation-dune-entreprise-artisanale.md)
+* [Demander à adhérer à l’Association nationale de normalisation en qualité de membre associé](demander-a-adherer-a-lassociation-nationale-de-normalisation-en-qualite-de-membre-associe.md)
+* [Demander la certification d’un produit à l’Association sénégalaise de normalisation](demander-la-certification-dun-produit-a-lassociation-senegalaise-de-normalisation.md)
+* [Demander une assistance conseil dans le cadre de la certification ISO 9001 version 2008](demander-une-assistance-conseil-dans-le-cadre-de-la-certification-iso-9001-version-2008.md)
+* [Demander à l’Association sénégalaise de normalisation (ASN) les normes sur un produit (normes sénégalaises, françaises et internationales)](demander-a-lassociation-senegalaise-de-normalisation-asn-les-normes-sur-un-produit-normes-senegalaises-francaises-et-internationales.md)
+* [Demander la révision ou l’annulation de normes sénégalaises](demander-la-revision-ou-lannulation-de-normes-senegalaises.md)
+* [Demander à l’Agence d’aménagement et de promotion des sites industriels (APROSI) d’effectuer un audit financier de son entreprise.](demander-a-lagence-damenagement-et-de-promotion-des-sites-industriels-aprosi-deffectuer-un-audit-financier-de-son-entreprise.md)
+* [Demander à l’Agence d’aménagement et de promotion des sites industriels (APROSI) d’effectuer une analyse diagnostique de son entreprise](demander-a-lagence-damenagement-et-de-promotion-des-sites-industriels-aprosi-deffectuer-une-analyse-diagnostique-de-son-entreprise.md)
+* [Demander à l’Agence d’aménagement et de promotion des sites industriels (APROSI) l’aide à la recherche d’un partenaire technique, financier ou commercial.](demander-a-lagence-damenagement-et-de-promotion-des-sites-industriels-aprosi-laide-a-la-recherche-dun-partenaire-technique-financier-ou-commercial.md)
+* [Demander à l’Agence d’aménagement et de promotion des sites industriels (APROSI) une étude de marché pour son entreprise](demander-a-lagence-damenagement-et-de-promotion-des-sites-industriels-aprosi-une-etude-de-marche-pour-son-entreprise.md)
+* [Demander une étude de redressement ou de restructuration d’une entreprise à l’Agence d’aménagement et de promotion des sites industriels (APROSI)](demander-une-etude-de-redressement-ou-de-restructuration-dune-entreprise-a-lagence-damenagement-et-de-promotion-des-sites-industriels-aprosi.md)
+* [Demander une étude de faisabilité d’un projet d’entreprise industrielle  à l’Agence d’aménagement et de promotion des sites industriels (APROSI)](demander-une-etude-de-faisabilite-dun-projet-dentreprise-industrielle-a-lagence-damenagement-et-de-promotion-des-sites-industriels-aprosi.md)

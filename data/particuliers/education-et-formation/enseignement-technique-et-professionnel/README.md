@@ -1,0 +1,15 @@
+# Enseignement technique et professionnel
+
+* [S’inscrire au Centre d’enseignement technique féminin professionnel du Centre d’éducation et de réadaptation pour enfants handicapés physiques de Talibou Dabo.](sinscrire-au-centre-denseignement-technique-feminin-professionnel-du-centre-deducation-et-de-readaptation-pour-enfants-handicapes-physiques-de-talibou-dabo.md)
+* [S’inscrire au Centre de formation artisanale (CFA) de Dakar](sinscrire-au-centre-de-formation-artisanale-cfa-de-dakar.md)
+* [S’inscrire au Centre de formation professionnelle horticole de Camberène (CFPH)](sinscrire-au-centre-de-formation-professionnelle-horticole-de-camberene-cfph.md)
+* [S’inscrire par voie de concours  au 1er et  2ème cycle à l’Ecole nationale des travailleurs sociaux spécialisés (ENTSS)](sinscrire-par-voie-de-concours-au-1er-et-2eme-cycle-a-lecole-nationale-des-travailleurs-sociaux-specialises-entss.md)
+* [S’inscrire à l’Ecole municipale des professionnels de la santé](sinscrire-a-lecole-municipale-des-professionnels-de-la-sante.md)
+* [S’inscrire au concours d’entrée de l’école nationale des arts pour les étrangers](sinscrire-au-concours-dentree-de-lecole-nationale-des-arts-pour-les-etrangers.md)
+* [S’inscrire comme auditeur libre à l’Ecole nationale des arts (E.N.A)](sinscrire-comme-auditeur-libre-a-lecole-nationale-des-arts-ena.md)
+* [Se présenter aux concours d'entrée au Centre national de formation des techniciens des pêches et de l’aquaculture (CNFTPA)](se-presenter-aux-concours-dentree-au-centre-national-de-formation-des-techniciens-des-peches-et-de-laquaculture-cnftpa.md)
+* [Se présenter au concours d’entrée à l’Ecole nationale de formation en économie familiale et sociale (ENFEFS)](se-presenter-au-concours-dentree-a-lecole-nationale-de-formation-en-economie-familiale-et-sociale-enfefs.md)
+* [Se présenter au concours d'entrée au centre de formation professionnelle et commerciale (CFPC)](se-presenter-au-concours-dentree-au-centre-de-formation-professionnelle-et-commerciale-cfpc.md)
+* [Demander une autorisation d'enseigner dans les écoles privées de formation professionnelle](demander-une-autorisation-denseigner-dans-les-ecoles-privees-de-formation-professionnelle.md)
+* [Devenir vacataire de l'enseignement technique et de la formation professionnelle](devenir-vacataire-de-lenseignement-technique-et-de-la-formation-professionnelle.md)
+* [Demander une autorisation d'ouvrir une école privée de formation professionnelle](demander-une-autorisation-douvrir-une-ecole-privee-de-formation-professionnelle.md)

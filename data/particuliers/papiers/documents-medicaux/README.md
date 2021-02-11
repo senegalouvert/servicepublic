@@ -1,0 +1,16 @@
+# Documents médicaux
+
+* [Demander un carnet de vaccination international](demander-un-carnet-de-vaccination-international.md)
+* [Comment obtenir une autorisation d’exercer la médecine vétérinaire à titre privé](comment-obtenir-une-autorisation-dexercer-la-medecine-veterinaire-a-titre-prive.md)
+* [Comment obtenir une autorisation d’exercice des soins infirmiers vétérinaires à titre privé](comment-obtenir-une-autorisation-dexercice-des-soins-infirmiers-veterinaires-a-titre-prive.md)
+* [Demander une autorisation d'exercer au Sénégal en tant que médecin naturalisé sénégalais](demander-une-autorisation-dexercer-au-senegal-en-tant-que-medecin-naturalise-senegalais.md)
+* [Demander un certificat médical de visite  et de contre-visite délivré par un médecin militaire](demander-un-certificat-medical-de-visite-et-de-contre-visite-delivre-par-un-medecin-militaire.md)
+* [Demander un certificat de visite médicale périodique](demander-un-certificat-de-visite-medicale-periodique.md)
+* [Demander un certificat médical pour coups et blessures](demander-un-certificat-medical-pour-coups-et-blessures.md)
+* [Demander un certificat de handicap moteur](demander-un-certificat-de-handicap-moteur.md)
+* [Demander un certificat de grossesse](demander-un-certificat-de-grossesse.md)
+* [Demander un certificat médical d'accouchement](demander-un-certificat-medical-daccouchement.md)
+* [Demander l'autorisation de mise sur le marché d'un médicament (AMM)](demander-lautorisation-de-mise-sur-le-marche-dun-medicament-amm.md)
+* [Demander un certificat de genre de mort](demander-un-certificat-de-genre-de-mort.md)
+* [Demander un certificat de salubrité](demander-un-certificat-de-salubrite.md)
+* [Demander l'autorisation d'ouvrir un cabinet médical à titre privé](demander-lautorisation-douvrir-un-cabinet-medical-a-titre-prive.md)

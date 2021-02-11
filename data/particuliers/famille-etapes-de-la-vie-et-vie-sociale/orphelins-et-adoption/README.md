@@ -1,0 +1,17 @@
+# Orphelins et adoption
+
+* [Demander un certificat de non rétractation à consentement](demander-un-certificat-de-non-retractation-a-consentement.md)
+* [Demander un procès verbal de rétractation de consentement](demander-un-proces-verbal-de-retractation-de-consentement.md)
+* [Demander un procès verbal de consentement à adoption](demander-un-proces-verbal-de-consentement-a-adoption.md)
+* [Contester une filiation maternelle](contester-une-filiation-maternelle.md)
+* [Demander le placement d'un enfant mineur dans les centres spécialisés](demander-le-placement-dun-enfant-mineur-dans-les-centres-specialises.md)
+* [Demander un jugement d'hérédité](demander-un-jugement-dheredite.md)
+* [Demander la tutelle d'un enfant](demander-la-tutelle-dun-enfant.md)
+* [Demander un certificat d'administration légale](demander-un-certificat-dadministration-legale.md)
+* [Demander l'adoption limitée d'un enfant](demander-ladoption-limitee-dun-enfant.md)
+* [Demander l'établissement exceptionnel d'indication de paternité](demander-letablissement-exceptionnel-dindication-de-paternite.md)
+* [Réclamer la filiation maternelle](reclamer-la-filiation-maternelle.md)
+* [Demander un désaveu de paternité](demander-un-desaveu-de-paternite.md)
+* [Demander l'adoption plénière d'un enfant](demander-ladoption-pleniere-dun-enfant.md)
+* [Enregistrer une reconnaissance d’enfant](enregistrer-une-reconnaissance-denfant.md)
+* [Demander une pension d'orphelin  à l'Institution de prévoyance retraite du Sénégal (IPRES)](demander-une-pension-dorphelin-a-linstitution-de-prevoyance-retraite-du-senegal-ipres.md)

@@ -1,0 +1,17 @@
+# Service civique et service militaire
+
+* [Demander un certificat de position militaire](demander-un-certificat-de-position-militaire.md)
+* [Faire son service militaire](faire-son-service-militaire.md)
+* [Devenir volontaire du Service civique national](devenir-volontaire-du-service-civique-national.md)
+* [Devenir garde forestier](devenir-garde-forestier.md)
+* [S'inscrire au concours d'élève gendarme féminin](sinscrire-au-concours-deleve-gendarme-feminin.md)
+* [S'inscrire au concours d'élève gendarme](sinscrire-au-concours-deleve-gendarme.md)
+* [Comment faire une carrière militaire](comment-faire-une-carriere-militaire.md)
+* [Demander une pension d'ascendant de militaire](demander-une-pension-dascendant-de-militaire.md)
+* [Demander une pension de retraite pour un militaire](demander-une-pension-de-retraite-pour-un-militaire.md)
+* [Demander un livret  individuel pour les anciens militaires](demander-un-livret-individuel-pour-les-anciens-militaires.md)
+* [Demander un livret  individuel pour les anciens militaires](demander-un-livret-individuel-pour-les-anciens-militaires.md)
+* [Demander un état signalétique et des services (pour un militaire)](demander-un-etat-signaletique-et-des-services-pour-un-militaire.md)
+* [S'inscrire au concours d'entrée dans les grandes écoles militaires étrangères](sinscrire-au-concours-dentree-dans-les-grandes-ecoles-militaires-etrangeres.md)
+* [S'inscrire au concours d'entrée à l'Ecole nationale des sous-officiers d'active (ENSOA)](sinscrire-au-concours-dentree-a-lecole-nationale-des-sous-officiers-dactive-ensoa.md)
+* [S'inscrire au concours d'entrée à l'Ecole nationale des officiers d'active (ENOA)](sinscrire-au-concours-dentree-a-lecole-nationale-des-officiers-dactive-enoa.md)
