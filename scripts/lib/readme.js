@@ -14,6 +14,7 @@ const runTree = (categorie, lignes) =>
   let readmeTitre2 = `# ${upperCaseFirst(categorie)}\n\n`
   let readmeTitre3 = ''
   let readmeTitre4 = ''
+  let ymlTitre2 = ''
 
   lignes.forEach(ligne =>
   {
@@ -27,6 +28,7 @@ const runTree = (categorie, lignes) =>
     {
       readmeTitre1 += `  * [${categorie1}](./${categorie}/${slug(categorie1)}/README.md)\n`
       readmeTitre2 += `* [${categorie1}](./${slug(categorie1)}/README.md)\n`
+      ymlTitre2 += `- title: ${categorie1}\n  path: '/${slug(categorie)}/${slug(categorie1)}'\n  icon: icon-${slug(categorie1)}\n  subtopics:\n`
       readmeTitre3 = `# ${upperCaseFirst(categorie1)}\n\n`
     }
 
@@ -34,6 +36,7 @@ const runTree = (categorie, lignes) =>
     {
       creatFile(`../data/${categorie}/${slug(categorie1)}/README.md`, readmeTitre3)
       readmeTitre2 += `  * [${categorie2}](./${slug(categorie1)}/${slug(categorie2)}/README.md)\n`
+      ymlTitre2 += `    - title: ${categorie2}\n      path: '/${slug(categorie)}/${slug(categorie1)}/${slug(categorie2)}'\n`
       readmeTitre3 += `* [${categorie2}](./${slug(categorie2)}/README.md)\n`
       readmeTitre4 = ''
       readmeTitre4 += `# ${upperCaseFirst(categorie2)}\n\n`
@@ -58,6 +61,7 @@ const runTree = (categorie, lignes) =>
 
   fs.appendFileSync('../data/README.md', readmeTitre1)
   creatFile(`../data/${categorie}/README.md`, readmeTitre2)
+  creatFile(`../demo-site/src/content/${categorie}.yml`, ymlTitre2)
 }
 
 const upperCaseFirst = (str) =>
